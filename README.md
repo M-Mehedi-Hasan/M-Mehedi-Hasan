@@ -1,6 +1,7 @@
 
 
-### Hi there 👋, my name is Mehedi Hasan
+
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 
 
 - 🔭 I’m currently working with ReactJS 
@@ -20,4 +21,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=M-Mehedi-Hasan)  
 
-![Profile views](https://gpvc.arturio.dev/M-Mehedi-Hasan)  
+![Profile views](https://gpvc.arturio.dev/M-Mehedi-Hasan) 
+
