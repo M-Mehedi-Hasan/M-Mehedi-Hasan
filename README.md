@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h1 align="center">Welcome, I'm Mehedi Hasan</h1>
 
 
 - 🔭 I’m currently working with ReactJS 
