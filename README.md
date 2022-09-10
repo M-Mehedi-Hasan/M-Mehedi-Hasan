@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Mehedi Hasan
 
 
-- 🔭 I’m currently working on with ReactJS 
+- 🔭 I’m currently working with ReactJS 
 - 🌱 I’m currently learning MERN Stack 
 - ⚡ Fun fact: I love to play Online Games like Valorant, Apex Legends, etc. 
 
